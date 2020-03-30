@@ -1,2 +1,2 @@
 # VulnDB
-will provide the Database for the Spynet tool
+This is the vulnerability database for Spynet.
